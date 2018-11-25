@@ -1,3 +1,4 @@
+```
 function init([string]$Install, [string]$Output, [string]$PgsFile, [string]$Option){
     [Xml]$Pom = Get-Content ".\pom.xml"
     $Ins = $Pom.project.property.arInstallDirectory
@@ -51,3 +52,4 @@ function init([string]$Install, [string]$Output, [string]$PgsFile, [string]$Opti
 init "a" "b" "c" "d"
 init "1" "" "3" ""
 init "" "" "" ""
+```
