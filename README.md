@@ -111,3 +111,35 @@ Thank you very much for your assistance,
 The Admissions Team,
 King’s College London
 ```
+
+## 4. King’s College London(2018/12/1)
+> Name:         QIWEN CHEN
+> Programme:    Advanced Computing MSc (Full-time)
+
+Click here: [King’s College London](http://refereeportal.kcl.ac.uk/74686d9b-ed4a-4a43-aa2a-17aff6b8b6e9)
+
+```
+Dear Referee,
+ 
+Name:         QIWEN CHEN
+Programme:    Advanced Computing MSc (Full-time)
+ 
+The applicant named above is applying to a programme at King’s College London.  They have nominated you as a referee and we would be very grateful to receive your opinion of the candidate’s qualities and suitability to the programme proposed.
+Please click the following link to access our online ‘Referee Portal’ to submit your reference online.
+ 
+ http://refereeportal.kcl.ac.uk/74686d9b-ed4a-4a43-aa2a-17aff6b8b6e9
+ 
+When the reference is complete, please use the ‘submit’ button to formally submit the reference to King’s.
+
+When writing a reference for any applicant, (including those outside the UK) please remember that, under the Data Protection Act, the applicant can ask for a copy of the reference and any other personal information we have about them. 
+You can also select to have a copy of the reference sent to you. This will only send you a copy of text you have entered into the screen and any documents you have uploaded. If you are unsure whether your reference has uploaded correctly, please click on the above link again and you should see a message confirming that your reference has already been uploaded. 
+If you cannot access our online ‘Referee Portal’, please may you contact the applicant directly to make other arrangements for supplying a reference.
+
+We would be grateful if you could submit your reference within 10 days of receiving this request. If this is not possible, please ask the applicant to let us know when we can expect to receive the reference.
+
+Thank you very much for your assistance,
+
+The Admissions Team,
+King’s College London
+
+```
