@@ -9,7 +9,7 @@
 > Taught/Research:  Taught  
 > Department:  Computer Science  
 
-Click here: (Reference submission web-form link)[https://eref.warwick.ac.uk/reference/1966743/P-G5PD]
+Click here: [Reference submission web-form link](https://eref.warwick.ac.uk/reference/1966743/P-G5PD)
 
 ```
 Dear Mr Tian, 
