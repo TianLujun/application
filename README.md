@@ -1,5 +1,44 @@
 以下の情報は推薦状を送信するリンクである。
 
+## 0.The Hong Kong University of Science and Technology
+
+> application are as follows:  
+> Applicant Name: 	Mr Qiwen CHEN  
+> Application No.:	61900081752  
+> Program: 	Master of Science (MSc) in Information Technology, Full-Time  
+
+Click here: [ACCEPT Link](https://www.ab.ust.hk/acadrefP9?f_action=A&f_id1=61900081752&f_id2=1jzCYK6ZWT)
+
+```
+***Please do not reply to this system-generated message. If you wish to contact us, please write to us via Enquiry Form.***
+
+Dear Mr TIAN,
+
+Invitation to Provide Reference for Mr Qiwen CHEN
+
+The following applicant is seeking admission to the Hong Kong University of Science and Technology (HKUST) in 2019/20 and has nominated you as a referee. This is a formal invitation from the University to invite you to provide a reference report online. Details of the application are as follows:
+Applicant Name: 	Mr Qiwen CHEN
+Application No.:	61900081752
+Program: 	Master of Science (MSc) in Information Technology, Full-Time
+Note: 	The applicant waived the right of access to ratings and comments provided in the reference report. 
+
+To provide the reference, please click the "ACCEPT Link" or use the URL below:
+ACCEPT Link https://www.ab.ust.hk/acadrefP9?f_action=A&f_id1=61900081752&f_id2=1jzCYK6ZWT 
+
+We would very much appreciate it if you could let us have your reference by 13/03/2019.
+
+In case you do not wish to provide reference for this applicant, we appreciate that you inform us by clicking the DECLINE Link https://www.ab.ust.hk/acadrefP9?f_action=D&f_id1=61900081752&f_id2=1jzCYK6ZWT 
+
+Please contact us through the Enquiry Form at http://pg.ust.hk/enquiry if you have any questions. To help us assist you with technical difficulties, the exact error message and/or screen capture will be useful.
+
+Thank you very much in advance for your support and valuable input.
+
+Office of Postgraduate Studies
+The Hong Kong University of Science and Technology
+Website: http://pg.ust.hk
+
+```
+
 ## 1. The University of Warwick
 
 > Warwick ID Number:  1966743  
