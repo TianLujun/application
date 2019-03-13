@@ -5,8 +5,8 @@
 > Application No.: 19344025   
 > Graduate Division: COMPUTER SCIENCE & ENGINEERING   
 > Graduate Programme applied for: COMPUTER SCIENCE/MSC/Full-time  
-> Confidential Recommendation submission deadline: 14 April 2019 
-> Login ID: ここには僕のアドレスを置いてください（这里填我的邮箱地址，公司会收集并分析信息防止信息泄露，所以不能直接写出来）  
+> Confidential Recommendation submission deadline: 14 April 2019   
+> Login ID: ここには僕のアドレスを置いてください（这里填我的邮箱地址，公司会收集并分析信息防止信息泄露，所以不能直接写出来）   
 > Password: 6xTT7YsW7n  
 
 
